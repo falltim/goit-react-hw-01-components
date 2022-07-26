@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/falltim/goit-react-hw-01-components/static/css/main.d8e12321.css",
+    "main.js": "/falltim/goit-react-hw-01-components/static/js/main.7b85fa15.js",
+    "index.html": "/falltim/goit-react-hw-01-components/index.html",
+    "main.d8e12321.css.map": "/falltim/goit-react-hw-01-components/static/css/main.d8e12321.css.map",
+    "main.7b85fa15.js.map": "/falltim/goit-react-hw-01-components/static/js/main.7b85fa15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8e12321.css",
+    "static/js/main.7b85fa15.js"
+  ]
+}
